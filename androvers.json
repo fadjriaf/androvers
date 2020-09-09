@@ -34,5 +34,122 @@
 		"image": "images/donut.jpg",
 		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_1.6_Donut_(API_level_4)",
 		"description": "Di versi ini barulah secara komersil android muncul dengan nama pencuci mulut, Nama cupcake dipilih menjadi nama versi ini. Fitur baru yang muncul di versi ini salah satunya adalah on-screen keyboard."
+	},
+	{
+		"id": 5,
+		"codeName": "Eclair",
+		"version": "1.6",
+		"releaseDate": "15 September 2009",
+		"image": "images/donut.jpg",
+		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_1.6_Donut_(API_level_4)",
+		"description": "Di versi ini barulah secara komersil android muncul dengan nama pencuci mulut, Nama cupcake dipilih menjadi nama versi ini. Fitur baru yang muncul di versi ini salah satunya adalah on-screen keyboard."
+	},
+	{
+		"id": 6,
+		"codeName": "Froyo",
+		"version": "2.2 – 2.2.3",
+		"releaseDate": "20 Mei 2010",
+		"image": "images/froyo.jpg",
+		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_2.2%E2%80%932.2.3_Froyo_(API_level_8)",
+		"description": "Salah satu fitur yang muncul di versi ini adalah kunci pin pada ponsel dan pemolesan sistem-sistem yang sudah ada sebelumnya."
+	},
+	{
+		"id": 7,
+		"codeName": "Gingerbread",
+		"version": "2.3 - 2.3.7",
+		"releaseDate": "6 Desember 2010",
+		"image": "images/gingerbread.jpg",
+		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_2.3%E2%80%932.3.2_Gingerbread_(API_level_9)",
+		"description": "Dalam versi ini pembaharuan lebih banyak dari sisi hiburan, mulai dari dukungan format video. Dan yang paling fenomenal adalah dukungan kamera depan pada ponsel yang membawa trend foto selfie."
+	},
+	{
+		"id": 8,
+		"codeName": "Honeycomb",
+		"version": "3.0 - 3.2",
+		"releaseDate": "22 Februari 2011",
+		"image": "images/honeycomb.jpg",
+		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_3.0_Honeycomb_(API_level_11)",
+		"description": "Versi ini diluncurkan untuk penggunaan OS android pada tablet. Versi ini mendukung multi prosesor dan akselerasi hardware untuk grafis serta virtual buttons.  Merk tablet pertama yang menggunakan ini adalah Motorola Xoom."
+	},
+	{
+		"id": 9,
+		"codeName": "Ice Cream Sandwich",
+		"version": "4.0 - 4.0.4",
+		"releaseDate": "19 Oktober 2011",
+		"image": "images/icecream.jpg",
+		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_4.0%E2%80%934.0.2_Ice_Cream_Sandwich_(API_level_14)",
+		"description": "Fitur yang ada di versi tablet dimasukan ke dalam ICS 4.0 ini, termasuk juga dengan penampahan fitur baru seperti face unlock, aplikasi email dan rekap penggunaan data internet."
+	},
+	{
+		"id": 10,
+		"codeName": "Jellybean",
+		"version": "4.1 - 4.3",
+		"releaseDate": "9 Juli 2012",
+		"image": "images/jellybean.jpg",
+		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_4.1_Jelly_Bean_(API_level_16)",
+		"description": "Lewat versi Jelly Bean (4.1) google now mulai diperkenalkan, ia berfungsi untuk voice assistent untuk berbagai keperluan secara cepat."
+	},
+	{
+		"id": 11,
+		"codeName": "KitKat",
+		"version": "4.4",
+		"releaseDate": "31 Oktober 2013",
+		"image": "images/kitkat.jpg",
+		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_4.4_KitKat_(API_level_19)",
+		"description": "Versi Kitkat optimal berjalan pada kapasitas penyimpanan yang lebih besar dari versi Android sebelumnya. Disarankan perangkat harus memiliki minimal RAM 512 MB."
+	},
+	{
+		"id": 12,
+		"codeName": "Lolipop",
+		"version": "5.0",
+		"releaseDate": "25 Juni 2014",
+		"image": "images/lolipop.jpg",
+		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_5.0_Lollipop_(API_level_21)",
+		"description": "Perubahan yang paling menonjol dalam versi L ini adalah User Interface yang didesain ulang dan dibangun dengan “material design”."
+	},
+	{
+		"id": 13,
+		"codeName": "Marshmallow",
+		"version": "6.0",
+		"releaseDate": "5 Oktober 2015",
+		"image": "marshmallow",
+		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_6.0_Marshmallow_(API_level_23)",
+		"description": "Versi ini muncul dengan memperkenalkan beberapa fitur canggih, diantaranya adalah search bar, perizinan aplikasi dan juga sensor sidik jari."
+	},
+	{
+		"id": 14,
+		"codeName": "Nougat",
+		"version": "7.0 - 7.1",
+		"releaseDate": "22 Agustus 2016",
+		"image": "images/nougat.jpg",
+		"link": "/",
+		"description": "Fitur-fitur terbaru yang hadir diantaranya adalah multi-window yang memungkinkan pengguna menggunakan 2 aplikasi secara bersamaan, selain itu dalam versi ini dirilis juga 63 emoji baru."
+	},
+	{
+		"id": 15,
+		"codeName": "Oreo",
+		"version": "8.0 - 8.1.0",
+		"releaseDate": "21 Agustus 2017",
+		"image": "images/oreo.jpg",
+		"link": "/",
+		"description": "Lebih banyak fitur multi tasking dan perombakan bagian notifikasi. Pengguna bisa mengatur mana saja notifikasi yang ingin ditampilkan. Tampilan UI-nya juga lebih rapi dan segar, serta difokuskan untuk memudahkan pengguna mengakses aplikasi dan mencari informasi."
+	},
+	{
+		"id": 16,
+		"codeName": "Pie",
+		"version": "9",
+		"releaseDate": "6 Agustus 2018",
+		"image": "images/pie.jpg",
+		"link": "/",
+		"description": "Dilansir dari kompas setidaknya ada beberapa fitur yang ditambahkan dari versi sebelumnya diantaranya adalah smart reply dari notifikasi, navigasi berbasis gestur, adaptive battery, digital wellbeing dll."
+	},
+	{
+		"id": 17,
+		"codeName": "10",
+		"version": "10",
+		"releaseDate": "3 September 2019",
+		"image": "images/andro10.jpg",
+		"link": "/",
+		"description": "Ia tidak lagi menggunakan nama dessert atau makanan penutup seperti versi A-P sebelumnya. Salah satu alasannya adalah karena pihak android tidak menemukan makanan yang berasal dari awalan Q. "
 	}
 ]
