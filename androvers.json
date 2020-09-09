@@ -4,7 +4,7 @@
 		"codeName": "Astro",
 		"version": "1",
 		"releaseDate": "23 September 2008",
-		"image": "image/null.jpg",
+		"image": "images/null.jpg",
 		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_alpha",
 		"description": "Awalnya versi ini akan dinamai astro namun karena hak cipta penamaan, pihak android tidak menggunakan nama ini secara komersil. Versi android 1.0 sempat disematkan pada ponsel jenis HTC dream."
 	},
@@ -13,7 +13,7 @@
 		"codeName": "Bender",
 		"version": "1.1",
 		"releaseDate": "9 Februari 2009",
-		"image": "image/null.jpg",
+		"image": "images/null.jpg",
 		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_1.1_(API_level_2)",
 		"description": "Versi ini memiliki masalah sama seperti versi 1.0, yakni hak penamaan merk. di versi 1 dan 1.1 ini google play store yang sekarang kita kenal masih meluncur dengan nama android market."
 	},
@@ -22,7 +22,7 @@
 		"codeName": "Cupcake",
 		"version": "1.5",
 		"releaseDate": "30 April 2009",
-		"image": "image/cupcake.jpg",
+		"image": "images/cupcake.jpg",
 		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_1.5_Cupcake_(API_level_3)",
 		"description": "Di versi ini barulah secara komersil android muncul dengan nama pencuci mulut, Nama cupcake dipilih menjadi nama versi ini. Fitur baru yang muncul di versi ini salah satunya adalah on-screen keyboard."
 	},
@@ -31,7 +31,7 @@
 		"codeName": "Donut",
 		"version": "1.6",
 		"releaseDate": "15 September 2009",
-		"image": "image/donut.jpg",
+		"image": "images/donut.jpg",
 		"link": "https://id.wikipedia.org/wiki/Daftar_versi_Android#Android_1.6_Donut_(API_level_4)",
 		"description": "Di versi ini barulah secara komersil android muncul dengan nama pencuci mulut, Nama cupcake dipilih menjadi nama versi ini. Fitur baru yang muncul di versi ini salah satunya adalah on-screen keyboard."
 	}
